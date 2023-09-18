@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @Akwealth, a passionate coder and design enthusiast.
+- 👋 Hi, I'm Akanwealth Essien, a passionate coder and design enthusiast.
 - 👀 I’m interested in technology, design, and the endless possibilities at their intersection.
 - 🌱 I’m currently learning software engineering, mobile app development, and honing my design skills.
 - 💞️ I’m looking to collaborate on innovative projects that unite creativity and technology.
